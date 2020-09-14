@@ -92,4 +92,14 @@
         layoutResId="@xml/russian_english_qwerty"
         nameResId="РусEng"
         physicalKeyboardMappingResId="@xml/cyrillic_physical" />
+        
+    <Keyboard
+       defaultDictionaryLocale="ru"
+       description="Русский Фонетический Дворак"
+       iconResId="@drawable/ic_status_russian2"
+       id="2d395770-f5e5-11ea-8b6e-0800200c9a66"
+       index="9"
+       layoutResId="@xml/cyrillic_phonetic_dvorak"
+       nameResId="Русский Фонетический Дворак"
+       physicalKeyboardMappingResId="@xml/cyrillic_physical" />
 </Keyboards>
